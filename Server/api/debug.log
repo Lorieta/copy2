@@ -1,0 +1,37 @@
+[2025-01-27 08:46:32] Fetched 14 events from the database.
+[2025-01-27 08:46:32] Fetched 1 subscribers from the database.
+[2025-01-27 08:46:34] Failed to send email to jcbarv@gmail.com: {"errors":[{"message":"The provided authorization grant is invalid, expired, or revoked","field":null,"help":null}]}
+[2025-01-27 08:46:34] Newsletter sending process completed.
+[2025-01-27 08:47:33] Fetched 14 events from the database.
+[2025-01-27 08:47:33] Fetched 1 subscribers from the database.
+[2025-01-27 08:47:34] Failed to send email to jcbarv@gmail.com: {"errors":[{"message":"The provided authorization grant is invalid, expired, or revoked","field":null,"help":null}]}
+[2025-01-27 08:47:34] Newsletter sending process completed.
+[2025-01-27 08:52:30] Fetched 13 public events from the database.
+[2025-01-27 08:52:30] Fetched 1 subscribers from the database.
+[2025-01-27 08:52:35] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 08:52:35] Newsletter sending process completed.
+[2025-01-27 08:58:22] Fetched 13 public events
+[2025-01-27 08:58:22] Critical error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'unsubscribed' in 'where clause'
+[2025-01-27 09:00:30] Fetched 13 public events from the database.
+[2025-01-27 09:00:30] Fetched 1 subscribers from the database.
+[2025-01-27 09:00:34] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 09:00:34] Newsletter sending process completed.
+[2025-01-27 09:01:55] Fetched 13 public events from the database.
+[2025-01-27 09:01:55] Fetched 1 subscribers from the database.
+[2025-01-27 09:01:57] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 09:01:57] Newsletter sending process completed.
+[2025-01-27 09:04:55] Fetched 13 public events from the database.
+[2025-01-27 09:04:55] Fetched 1 subscribers from the database.
+[2025-01-27 09:04:56] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 09:04:56] Newsletter sending process completed.
+[2025-01-27 09:05:40] Fetched 13 public events from the database.
+[2025-01-27 09:05:40] Fetched 1 subscribers from the database.
+[2025-01-27 09:05:41] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 09:05:41] Newsletter sending process completed.
+[2025-01-27 09:59:52] Fetched 13 public events from the database.
+[2025-01-27 09:59:52] Fetched 4 subscribers from the database.
+[2025-01-27 09:59:54] Email sent successfully to jcbarv@gmail.com with status code 202
+[2025-01-27 09:59:54] Email sent successfully to lafuente.rafael02@gmail.com with status code 202
+[2025-01-27 09:59:55] Email sent successfully to tessaerickadeguzman@gmail.com with status code 202
+[2025-01-27 09:59:55] Email sent successfully to johnlesterabejo@gmail.com with status code 202
+[2025-01-27 09:59:55] Newsletter sending process completed.
